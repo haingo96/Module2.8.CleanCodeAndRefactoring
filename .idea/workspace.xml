@@ -5,13 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05013057-abc1-44ce-9f15-f7d5e8feee24" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/excercise1/TennisGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excercise1/TennisGameTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice1/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice1/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_8_CleanCodeAndRefactoring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/_8_CleanCodeAndRefactoring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice3/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice3/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice3/CylinderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice3/CylinderTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ngoho/OneDrive/Desktop/CodeGym/Module2/_8_CleanCodeAndRefactoring",
+    "last_opened_file_path": "C:/Users/ngoho/OneDrive/Desktop/CodeGym/Module2/_8_CleanCodeAndRefactoring/src/excercise1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -44,9 +51,36 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ngoho\OneDrive\Desktop\CodeGym\Module2\_8_CleanCodeAndRefactoring\src\excercise1" />
+      <recent name="C:\Users\ngoho\OneDrive\Desktop\CodeGym\Module2\_8_CleanCodeAndRefactoring\src\practice3" />
+      <recent name="C:\Users\ngoho\OneDrive\Desktop\CodeGym\Module2\_8_CleanCodeAndRefactoring\src\Practice2" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TennisGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="_8_CleanCodeAndRefactoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="excercise1" />
+      <option name="MAIN_CLASS_NAME" value="excercise1.TennisGameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TennisGameTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -57,7 +91,8 @@
       <option name="presentableId" value="Default" />
       <updated>1680065417432</updated>
       <workItem from="1680065418551" duration="42000" />
-      <workItem from="1680076621984" duration="997000" />
+      <workItem from="1680076621984" duration="1886000" />
+      <workItem from="1680079363698" duration="3228000" />
     </task>
     <servers />
   </component>

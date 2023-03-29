@@ -1,4 +1,4 @@
-package com.codegym;
+package practice3;
 
 public class Cylinder {
     public static double getVolume(int radius, int height){
