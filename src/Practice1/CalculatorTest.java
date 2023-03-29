@@ -1,6 +1,5 @@
 package Practice1;
 
-import Practice1.Calculator;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
